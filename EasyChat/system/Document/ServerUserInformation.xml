@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Information> 
+  <User ID="473034128" password="473034128nd" name="牛迪" question="最喜欢的歌手是谁？" answer="周杰伦" portraitNum="03" autograph="Keep Looking,Don't Settle!"/>  
+  <User ID="486465024" password="473034128" name="数据结构" question="我是谁" answer="你爸爸" portraitNum="34" autograph="我的地盘我做主"/>  
+  <User ID="406866903" password="473034128nd" name="Main工作室-牛迪" question="我是谁" answer="牛迪" portraitNum="00" autograph="Keep Looking，Don't settle！"/>  
+  <User ID="457859553" password="473034128" name="小姑娘" question="你什么时候出现啊？" answer="再等等吧" portraitNum="10" autograph="弱水三千，只取一瓢"/>
+</Information>
